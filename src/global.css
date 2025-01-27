@@ -83,3 +83,48 @@ body{
     background: rgb(255,77,77);
     border: 1px solid red;
 } 
+
+@media (max-width: 500px) {
+    body {
+        background-image: url(./Components/images/background.jpg);
+        background-size: cover;
+        background-position: center center;
+        padding: 10px;
+    }
+
+    .container {
+        width: 360px;
+        padding: 20px;
+        align-items: center;
+        text-align: justify;
+        overflow-y: auto;
+    }
+
+    .container h1 {
+        font-size: 18px;
+    }
+
+    .container h2 {
+        font-size: 14px;
+    }
+
+    .container p {
+        font-size: 14px;
+    }
+
+    .container ul > li {
+        font-size: 14px;
+        padding: 1rem 3rem;
+        height: 50px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        overflow: hidden;
+    }
+
+    .container button {
+        font-size: 14px;
+        padding: 10px 12px;
+    }
+}
