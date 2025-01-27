@@ -1,0 +1,82 @@
+[
+  {
+    "question": "What is the purpose of the <meta> tag in HTML?",
+    "option1": "To display metadata to users",
+    "option2": "To provide metadata to the browser",
+    "option3": "To style the webpage",
+    "option4": "To add interactivity",
+    "ans": 2
+  },
+  {
+    "question": "Which CSS property is used to change the background color of an element?",
+    "option1": "color",
+    "option2": "background-color",
+    "option3": "bg-color",
+    "option4": "background",
+    "ans": 2
+  },
+  {
+    "question": "What is the correct HTML tag for inserting a line break?",
+    "option1": "<br>",
+    "option2": "<lb>",
+    "option3": "<break>",
+    "option4": "<line>",
+    "ans": 1
+  },
+  {
+    "question": "In React, what is the primary purpose of the `useState` hook?",
+    "option1": "To manage state in functional components",
+    "option2": "To fetch data from APIs",
+    "option3": "To handle lifecycle methods",
+    "option4": "To directly manipulate the DOM",
+    "ans": 1
+  },
+  {
+    "question": "Which HTML attribute specifies an alternate text for an image if the image cannot be displayed?",
+    "option1": "alt",
+    "option2": "title",
+    "option3": "src",
+    "option4": "text",
+    "ans": 1
+  },
+  {
+    "question": "Which CSS property is used to make text bold?",
+    "option1": "font-weight",
+    "option2": "text-style",
+    "option3": "font-style",
+    "option4": "font-bold",
+    "ans": 1
+  },
+  {
+    "question": "Which method is used to add an event listener in JavaScript?",
+    "option1": "addEventListener",
+    "option2": "onEvent",
+    "option3": "attachEvent",
+    "option4": "setEvent",
+    "ans": 1
+  },
+  {
+    "question": "What is JSX in React?",
+    "option1": "A syntax extension for JavaScript",
+    "option2": "A library for state management",
+    "option3": "A type of CSS styling",
+    "option4": "A backend framework",
+    "ans": 1
+  },
+  {
+    "question": "Which tag is used to define a hyperlink in HTML?",
+    "option1": "<a>",
+    "option2": "<link>",
+    "option3": "<href>",
+    "option4": "<url>",
+    "ans": 1
+  },
+  {
+    "question": "What is the default value of the CSS `position` property?",
+    "option1": "relative",
+    "option2": "absolute",
+    "option3": "static",
+    "option4": "fixed",
+    "ans": 3
+  }
+]
